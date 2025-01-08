@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me:
 - 🎓 I'm an **Artificial Intelligence undergraduate student** at Shanghai University, Class of 2021-2025.
-- 🧠 My academic background covers **AI for Science**, **Natural Language Processing (NLP)**, **Computer Vision (CV)** and **EEG** research.
+- 🧠 My academic background is primarily focused on **AI for Science** and **Machine Learning**, but my GitHub projects span areas such as **Natural Language Processing (NLP)**, **Computer Vision (CV)**, and **Multimodal** research.
 - 🏅 A former **ICPC competitor**, I have won two **Bronze Medals**.
 - 🌐 I am dedicated to publishing repositories in both **English and Chinese** to make my work accessible to a wider audience.
 - 💻 I am passionate about solving challenging problems in AI and continuously expanding my knowledge.
