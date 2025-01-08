@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 I'm an **Artificial Intelligence undergraduate student** at Shanghai University, Class of 2021.
+- 🎓 I'm an **Artificial Intelligence undergraduate student** at Shanghai University, Class of 2021-2025.
 - 🧠 My academic background covers **AI for Science**, **Natural Language Processing (NLP)**, **Computer Vision (CV)** and **EEG** research.
 - 🏅 A former **ICPC competitor**, I have won two **Bronze Medals**.
 - 🌐 I am dedicated to publishing repositories in both **English and Chinese** to make my work accessible to a wider audience.
