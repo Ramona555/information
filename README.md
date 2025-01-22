@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me:
 - 🎓 I'm an **Artificial Intelligence undergraduate student** at Shanghai University, Class of 2021-2025.
-- 🧠 My academic background is primarily focused on **AI for Science** and **Machine Learning**, but my GitHub projects span areas such as **Natural Language Processing (NLP)**, **Computer Vision (CV)**, and **Multimodal** research, and some interesting tools.
+- 🧠 My academic background is primarily focused on **AI for Science** and **Machine Learning**, but my GitHub projects span areas such as **Natural Language Processing (NLP)**, **Computer Vision (CV)**, and **Multimodal** research, and some interesting tools**** (can be seen below).
 - 🏅 A former **ICPC competitor**, I have won two **Bronze Medals**.
 - 🌐 I am dedicated to publishing repositories in both **English and Chinese** to make my work accessible to a wider audience.
 - 💻 I am passionate about solving challenging problems in AI and continuously expanding my knowledge.
@@ -25,7 +25,20 @@
     <img src="https://img.shields.io/badge/Word-%232B579A.svg?style=flat&logo=microsoft-word&logoColor=white" alt="Word"/>
     <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white" alt="LATEX"/>
     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML"/>
+
 </p>
+
+<details open>
+<summary> <b>Some useful tools made by me:</b></summary>
+
+
+1. [Time Floating Window (A program that displays a small floating window of time on Windows)](https://github.com/liaoyanqing666/Time_Floating_Window)
+2. [Map of Top200 US universities (2025USNEWS)](https://www.google.com/maps/d/u/0/edit?mid=1ejHyjTJx0D7FoI_xaUDileyIFoDkjK4&ll=29.825532500669713%2C-114.375924&z=4)
+3. [Personal Website Template (An easy-to-use personal website template with detailed tutorials)](https://github.com/liaoyanqing666/liaoyanqing666.github.io)
+4. [Love Photo Wall Website (A beautiful (love) photo storage and display site)](https://github.com/liaoyanqing666/Photo_Wall)
+
+</details>
 
 ---
 
