@@ -61,7 +61,7 @@ For more details about my work and projects, please visit my [Resume Website](ht
 
 ### 📊 GitHub Stats:
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=liaoyanqing666&show_icons=true&hide_rank=true&hide=prs,issues,contribs&theme=tokyonight" alt="My GitHub stats"/>  
+    <img src="https://github-readme-stats.vercel.app/api?username=liaoyanqing666&show_icons=true&hide_rank=true&theme=tokyonight" alt="My GitHub stats"/>  
 </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liaoyanqing666&layout=compact&theme=tokyonight" alt="Most used languages"/>
