@@ -49,6 +49,9 @@ For more details about my work and projects, please visit my [Resume Website](ht
 
 ### 📫 Contact:
 
+<details>
+<summary> <b>Click to see all contact details.</b></summary>
+
 - 📧 **Email 1:** [![QQ Email](https://img.shields.io/badge/QQ%20Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:1793706453@qq.com) 1793706453@qq.com (most used)
 - 📧 **Email 2:** [![School Email](https://img.shields.io/badge/School%20Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:lyq@shu.edu.cn) lyq@shu.edu.cn
 - 📧 **Email 3:** [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:liaoyanqing666@gmail.com) liaoyanqing666@gmail.com
@@ -56,6 +59,8 @@ For more details about my work and projects, please visit my [Resume Website](ht
 - 🐧 **QQ:** [![QQ](https://img.shields.io/badge/QQ-EB1923?style=flat&logo=tencent-qq&logoColor=white)](tencent://message/?uin=1793706453) 1793706453
 - 💬 **WeChat:** [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=flat&logo=wechat&logoColor=white)](weixin://dl/chat?abcdefghi314159) abcdefghi314159
 - 📞 **Phone:** [![Phone](https://img.shields.io/badge/Phone-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+8613815397394) (+86) 13815397394
+
+</details>
 
 ---
 
