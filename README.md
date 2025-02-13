@@ -34,7 +34,7 @@
 
 
 1. [Time Floating Window (A program that displays a small floating window of time on Windows)](https://github.com/liaoyanqing666/Time_Floating_Window)
-2. [Map of Top200 US universities (2025USNEWS)](https://www.google.com/maps/d/u/0/edit?mid=1ejHyjTJx0D7FoI_xaUDileyIFoDkjK4&ll=29.825532500669713%2C-114.375924&z=4)
+2. [Map of Top200 US universities (2025USNEWS)](https://www.google.com/maps/d/viewer?mid=1ejHyjTJx0D7FoI_xaUDileyIFoDkjK4)
 3. [Personal Website Template (An easy-to-use personal website template with detailed tutorials)](https://github.com/liaoyanqing666/liaoyanqing666.github.io)
 4. [Love Photo Wall Website (A beautiful (love) photo storage and display site)](https://github.com/liaoyanqing666/Photo_Wall)
 
