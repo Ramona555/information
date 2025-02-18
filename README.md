@@ -43,7 +43,7 @@
 ---
 
 ### 💼 Resume:
-For more details about my work and projects, please visit my [Resume Website](https://siyuanli.tech/) or [Resume Website (Reserve)](https://liaoyanqing666.github.io/).
+For more details about my work and projects, please visit my [Resume Website](https://siyuanli.tech/).
 
 ---
 
