@@ -1,17 +1,13 @@
-<h1 align="center">Hello, I'm Siyuan Li (黎思源) 👋</h1>
+<h1 align="center">Hello, I'm Menglu Xu (徐萌璐) 👋</h1>
 
 <p align="center">
-    <b><em>AI Student | Tech Enthusiast</em></b>
+    <b><em>Electronic Science and Technology Student</em></b>
 </p>
 
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 I'm an **Artificial Intelligence undergraduate student** at Shanghai University, Class of 2021-2025.
-- 🧠 My academic background is primarily focused on **AI for Science** and **Machine Learning**, but my GitHub projects span areas such as **Natural Language Processing (NLP)**, **Computer Vision (CV)**, and **Multimodal** research, and some **interesting tools** (can be seen below).
-- 🏅 As a former **ICPC competitor**, I have won two **Bronze Medals**.
-- 🌐 I am dedicated to publishing repositories in both **English and Chinese** to make my work accessible to a wider audience.
-- 💻 I am passionate about solving challenging problems in AI and continuously expanding my knowledge.
+- 🎓 I'm an **Electronic Science and Technology undergraduate student** at Shanghai University, Class of 2021-2025.
 
 ---
 
@@ -43,7 +39,7 @@
 ---
 
 ### 💼 Resume:
-For more details about my work and projects, please visit my [Resume Website](https://siyuanli.tech/).
+For more details about my work and projects, please visit my [Resume Website](http://127.0.0.1:5500/index.html).
 
 ---
 
@@ -52,13 +48,9 @@ For more details about my work and projects, please visit my [Resume Website](ht
 <details>
 <summary> <b>Click to see all contact details.</b></summary>
 
-- 📧 **Email 1:** [![QQ Email](https://img.shields.io/badge/QQ%20Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:1793706453@qq.com) 1793706453@qq.com (most used)
-- 📧 **Email 2:** [![School Email](https://img.shields.io/badge/School%20Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:lyq@shu.edu.cn) lyq@shu.edu.cn
-- 📧 **Email 3:** [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:liaoyanqing666@gmail.com) liaoyanqing666@gmail.com
-- ❌ **Twitter (X):** [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/liaoyanqing666) liaoyanqing666
-- 🐧 **QQ:** [![QQ](https://img.shields.io/badge/QQ-EB1923?style=flat&logo=tencent-qq&logoColor=white)](tencent://message/?uin=1793706453) 1793706453
-- 💬 **WeChat:** [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=flat&logo=wechat&logoColor=white)](weixin://dl/chat?abcdefghi314159) abcdefghi314159
-- 📞 **Phone:** [![Phone](https://img.shields.io/badge/Phone-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+8613815397394) (+86) 13815397394
+- 🐧 **QQ:** 3223811614
+- 💬 **WeChat:** x19851842056
+- 📞 **Phone:** (+86) 19851842056
 
 </details>
 
